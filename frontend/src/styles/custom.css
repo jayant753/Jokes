@@ -1,0 +1,25 @@
+/* Add spacing between joke cards */
+.joke-card {
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Center the search form */
+  .search-form {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  /* Set a max-width for the cards */
+  .card {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  /* Make navbar sticky */
+  .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
